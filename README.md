@@ -10,6 +10,5 @@ PyCon APAC 2014 網頁內容
 link
 ---
 
-[en](http://tw.pycon.org/2014apac/en/)
-
-[zh-tw](http://tw.pycon.org/2014apac/zh/)
+- [en](http://tw.pycon.org/2014apac/en/)
+- [zh-tw](http://tw.pycon.org/2014apac/zh/)
