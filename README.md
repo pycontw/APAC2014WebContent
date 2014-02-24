@@ -1,14 +1,16 @@
-PyCon APAC 2014 網頁內容
+PyCon APAC 2014 Web Content
 
 ```
 ├── en/
-└── zh-tw/ 
+├── jp/
+└── zh-tw/
 ```
 
-現在有中、英文版，檔案即為在網頁上的 Title 名稱。
+Currently, only English and Chinese version are online. Filename is the title of that page on website.
 
-link
+Link
 ---
 
 - [en](http://tw.pycon.org/2014apac/en/)
+- [jp](http://tw.pycon.org/2014apac/jp/)
 - [zh-tw](http://tw.pycon.org/2014apac/zh/)
