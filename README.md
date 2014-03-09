@@ -2,7 +2,7 @@ PyCon APAC 2014 Web Content
 
 ```
 ├── en/
-├── jp/
+├── ja/
 └── zh-tw/
 ```
 
@@ -12,5 +12,5 @@ Link
 ---
 
 - [en](http://tw.pycon.org/2014apac/en/)
-- [jp](http://tw.pycon.org/2014apac/jp/)
+- [ja](http://tw.pycon.org/2014apac/ja/)
 - [zh-tw](http://tw.pycon.org/2014apac/zh/)
