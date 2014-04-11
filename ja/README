@@ -12,7 +12,8 @@
   | keynote_speaker.html             | 基調講演.html                |
   | program.html                     | プログラム.html              |
   | regional_pycon.html              | 地域のPyCon情報.html         |
-  | sponsor.html                     | スポンサー情報.html          |
+  | sponsor.html                     | スポンサー.html              |
+  | sponsor-info.html                | スポンサー情報.html          |
   | sponsor-why.html                 |                              |
   | sponsor-prospectus.html          | スポンサー募集要項.html      |
   | travel_info.html                 | 観光情報.html                |
